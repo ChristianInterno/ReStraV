@@ -7,6 +7,9 @@ Official implementation of the paper **"AI-Generated Video Detection via Percept
 
 **Authors:** *Christian Internò, Robert Geirhos, Markus Olhofer, Sunny Liu, David Klint, Barbara Hammer*
 
+![ReStraV Method Pipeline](./assets/pipeline.png)
+*Figure 1: The ReStraV method. Video frames are processed by a self-supervised encoder (DINOv2) to get embeddings. In this representation space, natural videos trace "straighter" paths than AI-generated ones. The trajectory's geometry, especially its curvature, serves as a powerful signal for a lightweight classifier to distinguish real from fake.*
+
 ---
 
 ### 🚧 Code Coming Soon! 🚧
