@@ -51,5 +51,5 @@ If you find our work useful in your research, please consider citing our paper:
 }
 ```
 
-## 🙏 Acknowledgements
+## Acknowledgements
 This research was partly funded by Honda Research Institute Europe and Cold Spring Harbor Laboratory. We would like to thank Eero Simoncelli for insightful discussions and feedback, as well as all our colleagues from Google DeepMind, the Machine Learning Group at Bielefeld University, Honda Research Institute for the insightful discussions and feedback.
