@@ -159,14 +159,13 @@ The demo supports:
 If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
-@misc{internò2025aigeneratedvideodetectionperceptual,
-      title={AI-Generated Video Detection via Perceptual Straightening}, 
-      author={Christian Internò and Robert Geirhos and Markus Olhofer and Sunny Liu and Barbara Hammer and David Klindt},
-      year={2025},
-      eprint={2507.00583},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.00583}, 
+@inproceedings{
+interno2025aigenerated,
+title={{AI}-Generated Video Detection via Perceptual Straightening},
+author={Christian Intern{\`o} and Robert Geirhos and Markus Olhofer and Sunny Liu and Barbara Hammer and David Klindt},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=LsmUgStXby}
 }
 ```
 
