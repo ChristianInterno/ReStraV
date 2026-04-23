@@ -6,7 +6,7 @@
 <p align="center">
   <img src="./assets/artwork.png" width="400" alt="ReStraV — Can you tell what's real?">
   <br>
-  <sub>Artwork by <a href="#">Eleonora</a></sub>
+  <sub>Artwork by <a href="#">Elena Z.</a></sub>
 </p>
 
 Official implementation of the paper **"AI-Generated Video Detection via Perceptual Straightening"**, accepted at NeurIPS 2025.
