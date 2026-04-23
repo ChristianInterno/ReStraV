@@ -9,7 +9,7 @@
   <sub>Artwork by <a href="#">Elena Z.</a></sub>
 </p>
 
-Official implementation of the paper **"AI-Generated Video Detection via Perceptual Straightening"**, accepted at NeurIPS 2025.
+Official implementation of the paper **"AI-Generated Video Detection via Perceptual Straightening"**, NeurIPS 2025.
 
 ![ReStraV Method Pipeline](./assets/pipeline.png)
 *Figure 1: The ReStraV method. Video frames are processed by a self-supervised encoder (DINOv2) to get embeddings. In this representation space, natural videos trace "straighter" paths than AI-generated ones. The trajectory's geometry, especially its curvature, serves as a powerful signal for a lightweight classifier to distinguish real from fake.*
