@@ -175,6 +175,17 @@ url={https://openreview.net/forum?id=LsmUgStXby}
 }
 ```
 
+## Star History
+
+<a href="https://www.star-history.com/#ChristianInterno/ReStraV&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ChristianInterno/ReStraV&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ChristianInterno/ReStraV&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ChristianInterno/ReStraV&type=Date" />
+ </picture>
+</a>
+
+
 ## Acknowledgements
 This research was partly funded by Honda Research Institute Europe and Cold Spring Harbor Laboratory. We would like to thank Eero Simoncelli for insightful discussions and feedback, as well as all our colleagues from Google DeepMind, the Machine Learning Group at Bielefeld University, Honda Research Institute for the insightful discussions and feedback.
 
